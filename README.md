@@ -130,3 +130,7 @@ Dan Korn, [@DnlRKorn](https://github.com/DnlRKorn)
 Chris Brown, [@CryoBrown](https://github.com/CryoBrown)
 
 Cannon Lewis, [@cannon10100](https://github.com/cannon10100)
+
+## What to Use TrumpScript for and When to Use It
+
+Use it for sanity sake especially for the upcoming Presidential election, which is drawing near.  If you ever find yourself confuse, and totally awestruck by Yours truly, I encourage you to turn to TrumpScript and be humored.  TrumpScript is totally for non-programmer and you need only write in plain English, much like Yours truly would.  You may even find subtle delight in scipting, even if you never wrote one before.  So why not turn it all around, instead be amused of what you might be able to script up.  Enough said, start using it already! 
