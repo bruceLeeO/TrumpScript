@@ -81,6 +81,33 @@ America is great.
 
 But most importantly, Trump doesn't like to talk about his failures. So a lot of the time your code will fail, and it will do so silently. Just think of debugging as a fun little game.
 
+## For the non-technical, for America
+The *TrumpScript* programming language is designed for the people that believe in America, that America is great, not China not even
+Mexico, only **America**
+
+If you wanna be a programmer which **Trump** hires for handling the great technology America has, or the cybernetic data, or better yet, the billions of dollars **Trump** has, what you need to know is:
+
+* Python programming language, don't worry it's easy for you, you are a Trump soldier.
+* *TrumpScript Syntax*, which has been described, only **Trump** will allowed it, piece of cake.
+* Thinking about what great *TrumpScript* is, and of course **America**.
+
+Let's say for example, if you wanna initiate in the world of Trumpism, you can write this:
+
+```
+Hillary is lie.
+Trump is fact.
+100000000 of Trump.
+"VOTE TRUMP"
+America is great.
+```
+Save it as America.tr
+
+Then you call TRUMP America.tr in the console and that's it.
+
+It's compiling, no errors, so you are ready to go, you don't need any help for anyone, Trump trust you, America as well.
+
+Remember, vote for Trump.
+
 ## Because We Pretend We're Good People
 If this page entertained you, consider making a donation to your favorite charity or political campaign.
 
@@ -130,7 +157,3 @@ Dan Korn, [@DnlRKorn](https://github.com/DnlRKorn)
 Chris Brown, [@CryoBrown](https://github.com/CryoBrown)
 
 Cannon Lewis, [@cannon10100](https://github.com/cannon10100)
-
-## What to Use TrumpScript for and When to Use It
-
-Use it for sanity sake especially for the upcoming Presidential election, which is drawing near.  If you ever find yourself confuse, and totally awestruck by Yours truly, I encourage you to turn to TrumpScript and be humored.  TrumpScript is totally for non-programmer and you need only write in plain English, much like Yours truly would.  You may even find subtle delight in scipting, even if you never wrote one before.  So why not turn it all around, instead be amused of what you might be able to script up.  Enough said, start using it already! 
